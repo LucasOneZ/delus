@@ -9,6 +9,7 @@ import (
 	"strings"
 )
 
+//LucasOneZ
 // A simple list of common TLDs. You can extend this list as needed.
 var validTLDs = []string{
 	"com", "org", "net", "edu", "gov", "io", "co", "us", "in", "info", "biz", "online", "xyz",
