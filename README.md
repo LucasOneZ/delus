@@ -14,7 +14,7 @@ delus is a Go program that processes a list of domains or subdomains, removes in
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/LucasOnez/delus.git
+    git clone https://github.com/LucasOneZ/delus.git
     ```
    
 2. **Navigate to the project directory**:
