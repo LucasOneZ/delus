@@ -27,6 +27,14 @@ delus is a Go program that processes a list of domains or subdomains, removes in
     go build -o delus main.go
     ```
 
+# Or
+
+Installing using go
+
+```bash
+go install -v github.com/LucasOneZ/delus@latest
+```
+
 ## Usage
 
 You can run the program with various command-line flags to customize its behavior.
